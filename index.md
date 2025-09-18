@@ -83,3 +83,10 @@ layout: default
 
 　　希望这份指南能帮你扫清障碍，让网络不再是旅行的隔阂，而是你探索世界的完美工具。
 　　<<<END_
+
+<!-- crosslink -->
+---
+
+## 相关指南
+
+- [Indonesia SIM 卡购买与激活指南](https://faciylike.github.io/indonesia-sim-guides)
